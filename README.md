@@ -24,7 +24,6 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg' title='Gulp' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title='Git' width='50px'/>&nbsp;
 
-<br>
 <h3>🔗 Connect with me</h3>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-solo)
