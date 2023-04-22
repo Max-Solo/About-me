@@ -1,16 +1,16 @@
-<h2 align="center">Hi there! I'm Maxim Solovev! 👋
+<h1 align="center">Hi there! I'm Maxim Solovev! 👋
 
 <br>
 
-</h2>
+</h1>
 
-- 🍀 I've been an enthusiastic web developer since 2020.
+-  🍀 I've been an enthusiastic web developer since 2020.
 
 -  ⚡ I enjoy the creative process of developing interfaces and constantly expanding my technology stack.
 
-- 🙌 I am motivated by growth and excellence in my work, so I am always striving for excellence.
+-  🙌 I am motivated by growth and excellence in my work, so I am always striving for excellence.
 
-- 👨‍💻 I am inspired by the opportunity to create something new and useful for users
+-  👨‍💻 I am inspired by the opportunity to create something new and useful for users
 
 <h3>Technology Stack:</h3>
 
@@ -25,9 +25,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title='Git' width='50px'/>&nbsp;
 
 <br>
-🔗 Connect with me
-
-<br>
+<h3>🔗 Connect with me</h3>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-solo)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_solo_dev)
