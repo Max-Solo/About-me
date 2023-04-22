@@ -32,4 +32,4 @@
 <br>
 <br>
 
-<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIyZTFiMDc4ZWZiYTYwYTJmYTgxNTRjMWUxMTc5ZTFlMGUxMzk1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif' title='Git' width='200px'/>
+<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIyZTFiMDc4ZWZiYTYwYTJmYTgxNTRjMWUxMTc5ZTFlMGUxMzk1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif' title='Git' width='300px'/>
