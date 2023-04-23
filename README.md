@@ -23,6 +23,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' title='Bootstrap' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg' title='Gulp' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title='Git' width='50px'/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' title='Figma' width='50px'/>&nbsp;
 
 <h3>🔗 Connect with me</h3>
 
