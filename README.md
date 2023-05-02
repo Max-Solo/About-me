@@ -22,7 +22,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' title='Redux' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' title='Bootstrap' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg' title='Material UI' width='50px'/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg' title='Tailwindcss' width='50px'/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' title='Tailwindcss' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg' title='Gulp' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title='Git' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' title='Figma' width='50px'/>&nbsp;
