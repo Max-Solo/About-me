@@ -19,7 +19,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' title='Sass' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' title='JavaScript' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' title='React' width='50px'/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' title='Redux' width='50px'/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' title='Vue' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' title='Bootstrap' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg' title='Material UI' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' title='Tailwindcss' width='50px'/>&nbsp;
